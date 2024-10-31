@@ -1,0 +1,29 @@
+# Core Dependencies
+Flask
+gunicorn
+python-dotenv
+
+# ML & Audio Processing
+torch
+torchaudio
+transformers
+TTS
+numpy
+soundfile
+librosa
+
+# Utilities
+python-json-logger
+pydantic
+tenacity
+requests
+
+# Development Tools
+black
+pylint
+pytest
+pytest-cov
+mypy
+
+# Performance Monitoring
+prometheus-client
